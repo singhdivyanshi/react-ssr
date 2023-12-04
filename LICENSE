@@ -20,32 +20,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 root@ip-172-31-8-39:/home/ubuntu/react-ssr# history
-    1  apt-get update -y
-    2  git clone https://github.com/abhijeetpoonia/react-ssr.git
-    3  ls
-    4  cd react-ssr/
-    5  ls
-    6  # Install NVM
+  
     7  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-    8  # Reload your shell or restart your terminal
     9  source ~/.bashrc  # or source ~/.zshrc if you're using Zsh
-   10  # Install Node.js using NVM
    11  nvm install 16
    12  nvm use 16
-   13  npm i
-   14* 
-   15  npm i
-   16  cat package.json 
-   17  sudo apt-get update
    18  sudo apt-get install build-essential
    19  npm install core-js@latest
    20  npm install iltorb@latest
-   21  npm i
-   22  npm install babel-loader@latest
-   23  npm install webpack@4.41.2
-   24  npm install babel-loader@latest
-   25  npm 1
-   26  npm i 
    27  npm i --legacy-peer-deps
    28  npm run dev
-   29  history

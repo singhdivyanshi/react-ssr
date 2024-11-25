@@ -1,4 +1,4 @@
- {
+{
   "name": "react-ssr",
   "version": "1.0.0",
   "description": "React server-side rendering setup",
@@ -78,4 +78,4 @@
   },
   "author": "",
   "license": "MIT"
-}`
+}
